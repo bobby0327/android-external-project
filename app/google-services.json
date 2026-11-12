@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "904096581579",
+    "project_id": "reading-list-and-country-track",
+    "storage_bucket": "reading-list-and-country-track.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904096581579:android:c0d611cc37d0f25746984e",
+        "android_client_info": {
+          "package_name": "com.example.readinglistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904096581579-vhcfc09p7cuhk62occhim7mp57j647bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffs9Th_zWYWV-fq3tjL06R1QMTNvRCg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904096581579-vhcfc09p7cuhk62occhim7mp57j647bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904096581579:android:c0d611cc37d0f25746984e",
+        "android_client_info": {
+          "package_name": "com.readinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904096581579-vhcfc09p7cuhk62occhim7mp57j647bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffs9Th_zWYWV-fq3tjL06R1QMTNvRCg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904096581579-vhcfc09p7cuhk62occhim7mp57j647bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
